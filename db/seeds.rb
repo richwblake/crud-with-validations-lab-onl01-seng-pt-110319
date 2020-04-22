@@ -1,0 +1,1 @@
+Song.create(title: "Carry On Wayword Son", released: true, release_year: 1977, artist_name: "Kansas", genre: "Rock")
